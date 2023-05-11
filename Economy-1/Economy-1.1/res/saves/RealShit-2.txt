@@ -1,0 +1,628 @@
+
+-----------------------------------------
+Sam Stone is 0 days old and has $25. Sam Stone has Wood: 0, Metal: 3, Glass: 0.
+-----------------------------------------
+Brandy Strange is 0 days old and has $20. Brandy Strange has Wood: 2, Metal: 2, Glass: 1.
+-----------------------------------------
+Jarrett King is 0 days old and has $32. Jarrett King has Wood: 2, Metal: 1, Glass: 2.
+-----------------------------------------
+Josh White is 0 days old and has $19. Josh White has Wood: 2, Metal: 0, Glass: 0.
+-----------------------------------------
+Matthew Dotson is 0 days old and has $28. Matthew Dotson has Wood: 0, Metal: 2, Glass: 0.
+-----------------------------------------
+Jeremiah Coppersmith is 0 days old and has $23. Jeremiah Coppersmith has Wood: 1, Metal: 1, Glass: 2.
+-----------------------------------------
+Jeremiah Black is 0 days old and has $24. Jeremiah Black has Wood: 0, Metal: 2, Glass: 0.
+-----------------------------------------
+Johnny Nixion is 0 days old and has $17. Johnny Nixion has Wood: 0, Metal: 1, Glass: 0.
+-----------------------------------------
+Noah Bourgeois is 0 days old and has $31. Noah Bourgeois has Wood: 0, Metal: 1, Glass: 5.
+-----------------------------------------
+Kim Jenson is 0 days old and has $25. Kim Jenson has Wood: 0, Metal: 2, Glass: 2.
+-----------------------------------------
+Oscar Nixion is 0 days old and has $20. Oscar Nixion has Wood: 0, Metal: 1, Glass: 0.
+-----------------------------------------
+Luke Nixion is 0 days old and has $18. Luke Nixion has Wood: 0, Metal: 1, Glass: 2.
+-----------------------------------------
+Kim Strange is 0 days old and has $32. Kim Strange has Wood: 1, Metal: 0, Glass: 0.
+-----------------------------------------
+Dawson King is 0 days old and has $26. Dawson King has Wood: 1, Metal: 2, Glass: 0.
+-----------------------------------------
+Hunter Hill is 0 days old and has $31. Hunter Hill has Wood: 1, Metal: 1, Glass: 1.
+-----------------------------------------
+Franklin Bush is 0 days old and has $27. Franklin Bush has Wood: 1, Metal: 0, Glass: 2.
+-----------------------------------------
+Dawson Smith is 0 days old and has $22. Dawson Smith has Wood: 3, Metal: 1, Glass: 1.
+-----------------------------------------
+Ayden Smith is 0 days old and has $21. Ayden Smith has Wood: 0, Metal: 2, Glass: 0.
+-----------------------------------------
+Austin Merrill is 0 days old and has $34. Austin Merrill has Wood: 1, Metal: 2, Glass: 0.
+-----------------------------------------
+Kelly Lemeke is 0 days old and has $25. Kelly Lemeke has Wood: 0, Metal: 2, Glass: 0.
+-----------------------------------------
+
+----- Goods For Sale: 7 -----
+Sam Stone is selling metal for $8.
+Matthew Dotson is selling metal for $11.
+Jeremiah Black is selling metal for $9.
+Noah Bourgeois is selling glass for $10.
+Hunter Hill is selling metal for $11.
+Ayden Smith is selling metal for $11.
+Kelly Lemeke is selling metal for $10.
+-----------------------------------------
+Sam Stone is 1 days old and has $15. Sam Stone has Wood: 2, Metal: 2, Glass: 0.
+-----------------------------------------
+Brandy Strange is 1 days old and has $18. Brandy Strange has Wood: 2, Metal: 4, Glass: 1.
+-----------------------------------------
+Jarrett King is 1 days old and has $33. Jarrett King has Wood: 1, Metal: 2, Glass: 2.
+-----------------------------------------
+Josh White is 1 days old and has $23. Josh White has Wood: 2, Metal: 0, Glass: 0.
+-----------------------------------------
+Matthew Dotson is 1 days old and has $19. Matthew Dotson has Wood: 1, Metal: 1, Glass: 0.
+-----------------------------------------
+Jeremiah Coppersmith is 1 days old and has $23. Jeremiah Coppersmith has Wood: 2, Metal: 1, Glass: 1.
+-----------------------------------------
+Jeremiah Black is 1 days old and has $14. Jeremiah Black has Wood: 1, Metal: 1, Glass: 0.
+-----------------------------------------
+Johnny Nixion is 1 days old and has $8. Johnny Nixion has Wood: 1, Metal: 0, Glass: 0.
+-----------------------------------------
+Noah Bourgeois is 1 days old and has $31. Noah Bourgeois has Wood: 0, Metal: 2, Glass: 5.
+-----------------------------------------
+Kim Jenson is 1 days old and has $25. Kim Jenson has Wood: 0, Metal: 1, Glass: 2.
+-----------------------------------------
+Oscar Nixion is 1 days old and has $20. Oscar Nixion has Wood: 0, Metal: 0, Glass: 0.
+-----------------------------------------
+Luke Nixion is 1 days old and has $18. Luke Nixion has Wood: 0, Metal: 1, Glass: 2.
+-----------------------------------------
+Kim Strange is 1 days old and has $32. Kim Strange has Wood: 0, Metal: 1, Glass: 1.
+-----------------------------------------
+Dawson King is 1 days old and has $35. Dawson King has Wood: 0, Metal: 1, Glass: 0.
+-----------------------------------------
+Hunter Hill is 1 days old and has $31. Hunter Hill has Wood: 1, Metal: 1, Glass: 1.
+-----------------------------------------
+Franklin Bush is 1 days old and has $34. Franklin Bush has Wood: 0, Metal: 0, Glass: 1.
+-----------------------------------------
+Dawson Smith is 1 days old and has $32. Dawson Smith has Wood: 1, Metal: 1, Glass: 1.
+-----------------------------------------
+Ayden Smith is 1 days old and has $21. Ayden Smith has Wood: 0, Metal: 2, Glass: 1.
+-----------------------------------------
+Austin Merrill is 1 days old and has $43. Austin Merrill has Wood: 0, Metal: 1, Glass: 0.
+-----------------------------------------
+Kelly Lemeke is 1 days old and has $25. Kelly Lemeke has Wood: 0, Metal: 1, Glass: 0.
+-----------------------------------------
+
+----- Goods For Sale: 5 -----
+Kim Jenson is selling metal for $9.
+Luke Nixion is selling metal for $9.
+Hunter Hill is selling metal for $11.
+Dawson Smith is selling metal for $9.
+Ayden Smith is selling metal for $10.
+-----------------------------------------
+Sam Stone is 2 days old and has $23. Sam Stone has Wood: 1, Metal: 2, Glass: 0.
+-----------------------------------------
+Brandy Strange is 2 days old and has $17. Brandy Strange has Wood: 2, Metal: 4, Glass: 2.
+-----------------------------------------
+Jarrett King is 2 days old and has $23. Jarrett King has Wood: 1, Metal: 1, Glass: 3.
+-----------------------------------------
+Josh White is 2 days old and has $27. Josh White has Wood: 0, Metal: 2, Glass: 0.
+-----------------------------------------
+Matthew Dotson is 2 days old and has $12. Matthew Dotson has Wood: 1, Metal: 2, Glass: 0.
+-----------------------------------------
+Jeremiah Coppersmith is 2 days old and has $19. Jeremiah Coppersmith has Wood: 2, Metal: 1, Glass: 1.
+-----------------------------------------
+Jeremiah Black is 2 days old and has $14. Jeremiah Black has Wood: 2, Metal: 0, Glass: 0.
+-----------------------------------------
+Johnny Nixion is 2 days old and has $8. Johnny Nixion has Wood: 0, Metal: 1, Glass: 0.
+-----------------------------------------
+Noah Bourgeois is 2 days old and has $41. Noah Bourgeois has Wood: 0, Metal: 3, Glass: 3.
+-----------------------------------------
+Kim Jenson is 2 days old and has $25. Kim Jenson has Wood: 0, Metal: 1, Glass: 1.
+-----------------------------------------
+Luke Nixion is 2 days old and has $18. Luke Nixion has Wood: 0, Metal: 2, Glass: 1.
+-----------------------------------------
+Kim Strange is 2 days old and has $32. Kim Strange has Wood: 0, Metal: 1, Glass: 1.
+-----------------------------------------
+Dawson King is 2 days old and has $35. Dawson King has Wood: 0, Metal: 0, Glass: 0.
+-----------------------------------------
+Hunter Hill is 2 days old and has $31. Hunter Hill has Wood: 0, Metal: 1, Glass: 1.
+-----------------------------------------
+Franklin Bush is 2 days old and has $34. Franklin Bush has Wood: 0, Metal: 0, Glass: 0.
+-----------------------------------------
+Dawson Smith is 2 days old and has $32. Dawson Smith has Wood: 0, Metal: 1, Glass: 1.
+-----------------------------------------
+Ayden Smith is 2 days old and has $21. Ayden Smith has Wood: 1, Metal: 1, Glass: 1.
+-----------------------------------------
+Austin Merrill is 2 days old and has $43. Austin Merrill has Wood: 1, Metal: 0, Glass: 0.
+-----------------------------------------
+Kelly Lemeke is 2 days old and has $25. Kelly Lemeke has Wood: 0, Metal: 0, Glass: 0.
+-----------------------------------------
+
+----- Goods For Sale: 2 -----
+Luke Nixion is selling glass for $11.
+Hunter Hill is selling glass for $11.
+-----------------------------------------
+Sam Stone is 3 days old and has $12. Sam Stone has Wood: 1, Metal: 2, Glass: 1.
+-----------------------------------------
+Brandy Strange is 3 days old and has $12. Brandy Strange has Wood: 3, Metal: 4, Glass: 2.
+-----------------------------------------
+Jarrett King is 3 days old and has $22. Jarrett King has Wood: 0, Metal: 2, Glass: 3.
+-----------------------------------------
+Josh White is 3 days old and has $19. Josh White has Wood: 1, Metal: 1, Glass: 0.
+-----------------------------------------
+Matthew Dotson is 3 days old and has $12. Matthew Dotson has Wood: 3, Metal: 1, Glass: 0.
+-----------------------------------------
+Jeremiah Coppersmith is 3 days old and has $19. Jeremiah Coppersmith has Wood: 1, Metal: 2, Glass: 1.
+-----------------------------------------
+Jeremiah Black is 3 days old and has $20. Jeremiah Black has Wood: 0, Metal: 1, Glass: 0.
+-----------------------------------------
+Johnny Nixion is 3 days old and has $8. Johnny Nixion has Wood: 0, Metal: 0, Glass: 0.
+-----------------------------------------
+Noah Bourgeois is 3 days old and has $46. Noah Bourgeois has Wood: 1, Metal: 3, Glass: 2.
+-----------------------------------------
+Kim Jenson is 3 days old and has $34. Kim Jenson has Wood: 0, Metal: 0, Glass: 0.
+-----------------------------------------
+Luke Nixion is 3 days old and has $18. Luke Nixion has Wood: 0, Metal: 1, Glass: 2.
+-----------------------------------------
+Kim Strange is 3 days old and has $32. Kim Strange has Wood: 0, Metal: 1, Glass: 1.
+-----------------------------------------
+Hunter Hill is 3 days old and has $31. Hunter Hill has Wood: 0, Metal: 2, Glass: 1.
+-----------------------------------------
+Dawson Smith is 3 days old and has $32. Dawson Smith has Wood: 0, Metal: 0, Glass: 1.
+-----------------------------------------
+Ayden Smith is 3 days old and has $26. Ayden Smith has Wood: 0, Metal: 0, Glass: 1.
+-----------------------------------------
+Austin Merrill is 3 days old and has $43. Austin Merrill has Wood: 0, Metal: 0, Glass: 0.
+-----------------------------------------
+
+----- Goods For Sale: 3 -----
+Jeremiah Coppersmith is selling glass for $8.
+Luke Nixion is selling metal for $2.
+Kim Strange is selling glass for $9.
+-----------------------------------------
+Sam Stone is 4 days old and has $10. Sam Stone has Wood: 1, Metal: 2, Glass: 1.
+-----------------------------------------
+Brandy Strange is 4 days old and has $24. Brandy Strange has Wood: 3, Metal: 5, Glass: 1.
+-----------------------------------------
+Jarrett King is 4 days old and has $22. Jarrett King has Wood: 0, Metal: 3, Glass: 2.
+-----------------------------------------
+Josh White is 4 days old and has $19. Josh White has Wood: 0, Metal: 1, Glass: 1.
+-----------------------------------------
+Matthew Dotson is 4 days old and has $12. Matthew Dotson has Wood: 2, Metal: 1, Glass: 2.
+-----------------------------------------
+Jeremiah Coppersmith is 4 days old and has $19. Jeremiah Coppersmith has Wood: 1, Metal: 1, Glass: 1.
+-----------------------------------------
+Jeremiah Black is 4 days old and has $20. Jeremiah Black has Wood: 0, Metal: 0, Glass: 0.
+-----------------------------------------
+Noah Bourgeois is 4 days old and has $36. Noah Bourgeois has Wood: 1, Metal: 1, Glass: 3.
+-----------------------------------------
+Luke Nixion is 4 days old and has $18. Luke Nixion has Wood: 0, Metal: 1, Glass: 1.
+-----------------------------------------
+Kim Strange is 4 days old and has $32. Kim Strange has Wood: 0, Metal: 0, Glass: 2.
+-----------------------------------------
+Hunter Hill is 4 days old and has $31. Hunter Hill has Wood: 1, Metal: 1, Glass: 2.
+-----------------------------------------
+Dawson Smith is 4 days old and has $32. Dawson Smith has Wood: 0, Metal: 1, Glass: 0.
+-----------------------------------------
+Ayden Smith is 4 days old and has $26. Ayden Smith has Wood: 0, Metal: 0, Glass: 2.
+-----------------------------------------
+
+----- Goods For Sale: 7 -----
+Josh White is selling glass for $10.
+Matthew Dotson is selling glass for $6.
+Noah Bourgeois is selling glass for $6.
+Luke Nixion is selling glass for $7.
+Kim Strange is selling glass for $9.
+Hunter Hill is selling glass for $7.
+Ayden Smith is selling glass for $8.
+-----------------------------------------
+Sam Stone is 5 days old and has $10. Sam Stone has Wood: 1, Metal: 1, Glass: 1.
+-----------------------------------------
+Brandy Strange is 5 days old and has $36. Brandy Strange has Wood: 3, Metal: 4, Glass: 0.
+-----------------------------------------
+Jarrett King is 5 days old and has $22. Jarrett King has Wood: 0, Metal: 2, Glass: 2.
+-----------------------------------------
+Josh White is 5 days old and has $19. Josh White has Wood: 0, Metal: 1, Glass: 1.
+-----------------------------------------
+Matthew Dotson is 5 days old and has $12. Matthew Dotson has Wood: 1, Metal: 1, Glass: 2.
+-----------------------------------------
+Jeremiah Coppersmith is 5 days old and has $19. Jeremiah Coppersmith has Wood: 0, Metal: 2, Glass: 2.
+-----------------------------------------
+Noah Bourgeois is 5 days old and has $24. Noah Bourgeois has Wood: 1, Metal: 1, Glass: 3.
+-----------------------------------------
+Luke Nixion is 5 days old and has $18. Luke Nixion has Wood: 0, Metal: 0, Glass: 1.
+-----------------------------------------
+Kim Strange is 5 days old and has $32. Kim Strange has Wood: 1, Metal: 1, Glass: 1.
+-----------------------------------------
+Hunter Hill is 5 days old and has $31. Hunter Hill has Wood: 1, Metal: 1, Glass: 1.
+-----------------------------------------
+Dawson Smith is 5 days old and has $32. Dawson Smith has Wood: 0, Metal: 1, Glass: 1.
+-----------------------------------------
+Ayden Smith is 5 days old and has $26. Ayden Smith has Wood: 1, Metal: 0, Glass: 1.
+-----------------------------------------
+
+----- Goods For Sale: 6 -----
+Sam Stone is selling metal for $4.
+Matthew Dotson is selling glass for $9.
+Jeremiah Coppersmith is selling glass for $10.
+Noah Bourgeois is selling glass for $11.
+Kim Strange is selling glass for $12.
+Ayden Smith is selling glass for $6.
+-----------------------------------------
+Sam Stone is 6 days old and has $10. Sam Stone has Wood: 0, Metal: 1, Glass: 1.
+-----------------------------------------
+Brandy Strange is 6 days old and has $28. Brandy Strange has Wood: 3, Metal: 4, Glass: 1.
+-----------------------------------------
+Jarrett King is 6 days old and has $30. Jarrett King has Wood: 1, Metal: 1, Glass: 1.
+-----------------------------------------
+Josh White is 6 days old and has $26. Josh White has Wood: 0, Metal: 0, Glass: 0.
+-----------------------------------------
+Matthew Dotson is 6 days old and has $12. Matthew Dotson has Wood: 1, Metal: 1, Glass: 2.
+-----------------------------------------
+Jeremiah Coppersmith is 6 days old and has $19. Jeremiah Coppersmith has Wood: 1, Metal: 1, Glass: 2.
+-----------------------------------------
+Noah Bourgeois is 6 days old and has $17. Noah Bourgeois has Wood: 2, Metal: 1, Glass: 3.
+-----------------------------------------
+Luke Nixion is 6 days old and has $18. Luke Nixion has Wood: 0, Metal: 0, Glass: 1.
+-----------------------------------------
+Kim Strange is 6 days old and has $32. Kim Strange has Wood: 0, Metal: 2, Glass: 1.
+-----------------------------------------
+Hunter Hill is 6 days old and has $31. Hunter Hill has Wood: 0, Metal: 1, Glass: 2.
+-----------------------------------------
+Dawson Smith is 6 days old and has $32. Dawson Smith has Wood: 0, Metal: 1, Glass: 1.
+-----------------------------------------
+Ayden Smith is 6 days old and has $26. Ayden Smith has Wood: 0, Metal: 0, Glass: 1.
+-----------------------------------------
+
+----- Goods For Sale: 1 -----
+Noah Bourgeois is selling glass for $9.
+-----------------------------------------
+Sam Stone is 7 days old and has $10. Sam Stone has Wood: 0, Metal: 0, Glass: 1.
+-----------------------------------------
+Brandy Strange is 7 days old and has $23. Brandy Strange has Wood: 3, Metal: 4, Glass: 1.
+-----------------------------------------
+Jarrett King is 7 days old and has $25. Jarrett King has Wood: 1, Metal: 1, Glass: 1.
+-----------------------------------------
+Matthew Dotson is 7 days old and has $17. Matthew Dotson has Wood: 0, Metal: 2, Glass: 1.
+-----------------------------------------
+Jeremiah Coppersmith is 7 days old and has $30. Jeremiah Coppersmith has Wood: 1, Metal: 2, Glass: 0.
+-----------------------------------------
+Noah Bourgeois is 7 days old and has $6. Noah Bourgeois has Wood: 2, Metal: 1, Glass: 3.
+-----------------------------------------
+Luke Nixion is 7 days old and has $18. Luke Nixion has Wood: 0, Metal: 0, Glass: 0.
+-----------------------------------------
+Kim Strange is 7 days old and has $37. Kim Strange has Wood: 1, Metal: 0, Glass: 1.
+-----------------------------------------
+Hunter Hill is 7 days old and has $31. Hunter Hill has Wood: 0, Metal: 1, Glass: 1.
+-----------------------------------------
+Dawson Smith is 7 days old and has $32. Dawson Smith has Wood: 0, Metal: 1, Glass: 1.
+-----------------------------------------
+Ayden Smith is 7 days old and has $26. Ayden Smith has Wood: 0, Metal: 0, Glass: 0.
+-----------------------------------------
+
+----- Goods For Sale: 2 -----
+Hunter Hill is selling glass for $11.
+Dawson Smith is selling glass for $10.
+-----------------------------------------
+Sam Stone is 8 days old and has $10. Sam Stone has Wood: 0, Metal: 0, Glass: 0.
+-----------------------------------------
+Brandy Strange is 8 days old and has $23. Brandy Strange has Wood: 4, Metal: 3, Glass: 1.
+-----------------------------------------
+Jarrett King is 8 days old and has $21. Jarrett King has Wood: 1, Metal: 1, Glass: 1.
+-----------------------------------------
+Matthew Dotson is 8 days old and has $17. Matthew Dotson has Wood: 0, Metal: 1, Glass: 1.
+-----------------------------------------
+Jeremiah Coppersmith is 8 days old and has $20. Jeremiah Coppersmith has Wood: 1, Metal: 1, Glass: 1.
+-----------------------------------------
+Noah Bourgeois is 8 days old and has $10. Noah Bourgeois has Wood: 1, Metal: 1, Glass: 2.
+-----------------------------------------
+Kim Strange is 8 days old and has $47. Kim Strange has Wood: 1, Metal: 1, Glass: 0.
+-----------------------------------------
+Hunter Hill is 8 days old and has $31. Hunter Hill has Wood: 0, Metal: 0, Glass: 1.
+-----------------------------------------
+Dawson Smith is 8 days old and has $32. Dawson Smith has Wood: 0, Metal: 0, Glass: 1.
+-----------------------------------------
+
+----- Goods For Sale: 2 -----
+Matthew Dotson is selling glass for $6.
+Noah Bourgeois is selling glass for $11.
+-----------------------------------------
+Brandy Strange is 9 days old and has $23. Brandy Strange has Wood: 3, Metal: 3, Glass: 1.
+-----------------------------------------
+Jarrett King is 9 days old and has $21. Jarrett King has Wood: 0, Metal: 1, Glass: 1.
+-----------------------------------------
+Matthew Dotson is 9 days old and has $17. Matthew Dotson has Wood: 2, Metal: 0, Glass: 2.
+-----------------------------------------
+Jeremiah Coppersmith is 9 days old and has $20. Jeremiah Coppersmith has Wood: 0, Metal: 1, Glass: 1.
+-----------------------------------------
+Noah Bourgeois is 9 days old and has $10. Noah Bourgeois has Wood: 1, Metal: 1, Glass: 1.
+-----------------------------------------
+Kim Strange is 9 days old and has $47. Kim Strange has Wood: 0, Metal: 1, Glass: 0.
+-----------------------------------------
+Hunter Hill is 9 days old and has $31. Hunter Hill has Wood: 1, Metal: 1, Glass: 1.
+-----------------------------------------
+Dawson Smith is 9 days old and has $32. Dawson Smith has Wood: 0, Metal: 0, Glass: 0.
+-----------------------------------------
+
+----- Goods For Sale: 3 -----
+Jarrett King is selling glass for $10.
+Matthew Dotson is selling glass for $7.
+Noah Bourgeois is selling glass for $9.
+-----------------------------------------
+Brandy Strange is 10 days old and has $23. Brandy Strange has Wood: 2, Metal: 3, Glass: 1.
+-----------------------------------------
+Jarrett King is 10 days old and has $21. Jarrett King has Wood: 0, Metal: 0, Glass: 2.
+-----------------------------------------
+Matthew Dotson is 10 days old and has $17. Matthew Dotson has Wood: 2, Metal: 1, Glass: 3.
+-----------------------------------------
+Jeremiah Coppersmith is 10 days old and has $20. Jeremiah Coppersmith has Wood: 0, Metal: 0, Glass: 1.
+-----------------------------------------
+Noah Bourgeois is 10 days old and has $10. Noah Bourgeois has Wood: 0, Metal: 1, Glass: 2.
+-----------------------------------------
+Kim Strange is 10 days old and has $47. Kim Strange has Wood: 1, Metal: 0, Glass: 0.
+-----------------------------------------
+Hunter Hill is 10 days old and has $31. Hunter Hill has Wood: 0, Metal: 1, Glass: 1.
+-----------------------------------------
+
+----- Goods For Sale: 1 -----
+Hunter Hill is selling glass for $10.
+-----------------------------------------
+Brandy Strange is 11 days old and has $18. Brandy Strange has Wood: 3, Metal: 3, Glass: 1.
+-----------------------------------------
+Jarrett King is 11 days old and has $22. Jarrett King has Wood: 2, Metal: 1, Glass: 0.
+-----------------------------------------
+Matthew Dotson is 11 days old and has $16. Matthew Dotson has Wood: 1, Metal: 1, Glass: 3.
+-----------------------------------------
+Jeremiah Coppersmith is 11 days old and has $20. Jeremiah Coppersmith has Wood: 1, Metal: 0, Glass: 0.
+-----------------------------------------
+Noah Bourgeois is 11 days old and has $15. Noah Bourgeois has Wood: 0, Metal: 0, Glass: 1.
+-----------------------------------------
+Kim Strange is 11 days old and has $47. Kim Strange has Wood: 1, Metal: 0, Glass: 0.
+-----------------------------------------
+Hunter Hill is 11 days old and has $31. Hunter Hill has Wood: 0, Metal: 0, Glass: 1.
+-----------------------------------------
+
+----- Goods For Sale: 0 -----
+-----------------------------------------
+Brandy Strange is 12 days old and has $29. Brandy Strange has Wood: 2, Metal: 3, Glass: 0.
+-----------------------------------------
+Jarrett King is 12 days old and has $11. Jarrett King has Wood: 1, Metal: 1, Glass: 1.
+-----------------------------------------
+Matthew Dotson is 12 days old and has $25. Matthew Dotson has Wood: 0, Metal: 1, Glass: 2.
+-----------------------------------------
+Jeremiah Coppersmith is 12 days old and has $11. Jeremiah Coppersmith has Wood: 1, Metal: 1, Glass: 1.
+-----------------------------------------
+Noah Bourgeois is 12 days old and has $15. Noah Bourgeois has Wood: 0, Metal: 0, Glass: 0.
+-----------------------------------------
+Kim Strange is 12 days old and has $47. Kim Strange has Wood: 0, Metal: 0, Glass: 0.
+-----------------------------------------
+Hunter Hill is 12 days old and has $31. Hunter Hill has Wood: 0, Metal: 0, Glass: 0.
+-----------------------------------------
+
+----- Goods For Sale: 0 -----
+-----------------------------------------
+Brandy Strange is 13 days old and has $29. Brandy Strange has Wood: 2, Metal: 2, Glass: 0.
+-----------------------------------------
+Jarrett King is 13 days old and has $11. Jarrett King has Wood: 0, Metal: 1, Glass: 1.
+-----------------------------------------
+Matthew Dotson is 13 days old and has $25. Matthew Dotson has Wood: 0, Metal: 2, Glass: 1.
+-----------------------------------------
+Jeremiah Coppersmith is 13 days old and has $11. Jeremiah Coppersmith has Wood: 2, Metal: 1, Glass: 1.
+-----------------------------------------
+
+----- Goods For Sale: 1 -----
+Brandy Strange is selling metal for $1.
+-----------------------------------------
+Brandy Strange is 14 days old and has $29. Brandy Strange has Wood: 1, Metal: 2, Glass: 0.
+-----------------------------------------
+Jarrett King is 14 days old and has $11. Jarrett King has Wood: 0, Metal: 0, Glass: 1.
+-----------------------------------------
+Matthew Dotson is 14 days old and has $21. Matthew Dotson has Wood: 1, Metal: 2, Glass: 1.
+-----------------------------------------
+Jeremiah Coppersmith is 14 days old and has $15. Jeremiah Coppersmith has Wood: 0, Metal: 2, Glass: 2.
+-----------------------------------------
+
+----- Goods For Sale: 0 -----
+-----------------------------------------
+Brandy Strange is 15 days old and has $23. Brandy Strange has Wood: 1, Metal: 2, Glass: 1.
+-----------------------------------------
+Jarrett King is 15 days old and has $11. Jarrett King has Wood: 0, Metal: 0, Glass: 0.
+-----------------------------------------
+Matthew Dotson is 15 days old and has $19. Matthew Dotson has Wood: 1, Metal: 2, Glass: 1.
+-----------------------------------------
+Jeremiah Coppersmith is 15 days old and has $23. Jeremiah Coppersmith has Wood: 0, Metal: 1, Glass: 1.
+-----------------------------------------
+
+----- Goods For Sale: 1 -----
+Matthew Dotson is selling glass for $7.
+-----------------------------------------
+Brandy Strange is 16 days old and has $23. Brandy Strange has Wood: 2, Metal: 1, Glass: 1.
+-----------------------------------------
+Matthew Dotson is 16 days old and has $19. Matthew Dotson has Wood: 1, Metal: 1, Glass: 1.
+-----------------------------------------
+Jeremiah Coppersmith is 16 days old and has $23. Jeremiah Coppersmith has Wood: 0, Metal: 0, Glass: 1.
+-----------------------------------------
+
+----- Goods For Sale: 0 -----
+-----------------------------------------
+Brandy Strange is 17 days old and has $23. Brandy Strange has Wood: 1, Metal: 1, Glass: 1.
+-----------------------------------------
+Matthew Dotson is 17 days old and has $19. Matthew Dotson has Wood: 1, Metal: 1, Glass: 1.
+-----------------------------------------
+Jeremiah Coppersmith is 17 days old and has $23. Jeremiah Coppersmith has Wood: 0, Metal: 0, Glass: 0.
+-----------------------------------------
+
+----- Goods For Sale: 1 -----
+Brandy Strange is selling metal for $5.
+-----------------------------------------
+Brandy Strange is 18 days old and has $23. Brandy Strange has Wood: 0, Metal: 1, Glass: 2.
+-----------------------------------------
+Matthew Dotson is 18 days old and has $19. Matthew Dotson has Wood: 1, Metal: 1, Glass: 1.
+-----------------------------------------
+
+----- Goods For Sale: 1 -----
+Brandy Strange is selling glass for $7.
+-----------------------------------------
+Brandy Strange is 19 days old and has $23. Brandy Strange has Wood: 1, Metal: 1, Glass: 2.
+-----------------------------------------
+Matthew Dotson is 19 days old and has $19. Matthew Dotson has Wood: 0, Metal: 1, Glass: 1.
+-----------------------------------------
+
+----- Goods For Sale: 1 -----
+Matthew Dotson is selling glass for $9.
+-----------------------------------------
+Brandy Strange is 20 days old and has $23. Brandy Strange has Wood: 1, Metal: 1, Glass: 1.
+-----------------------------------------
+Matthew Dotson is 20 days old and has $19. Matthew Dotson has Wood: 1, Metal: 0, Glass: 2.
+-----------------------------------------
+
+----- Goods For Sale: 1 -----
+Brandy Strange is selling metal for $1.
+-----------------------------------------
+Brandy Strange is 21 days old and has $16. Brandy Strange has Wood: 1, Metal: 2, Glass: 1.
+-----------------------------------------
+Matthew Dotson is 21 days old and has $26. Matthew Dotson has Wood: 0, Metal: 0, Glass: 1.
+-----------------------------------------
+
+----- Goods For Sale: 0 -----
+-----------------------------------------
+Brandy Strange is 22 days old and has $16. Brandy Strange has Wood: 2, Metal: 1, Glass: 1.
+-----------------------------------------
+Matthew Dotson is 22 days old and has $26. Matthew Dotson has Wood: 0, Metal: 0, Glass: 0.
+-----------------------------------------
+
+----- Goods For Sale: 0 -----
+-----------------------------------------
+Brandy Strange is 23 days old and has $16. Brandy Strange has Wood: 1, Metal: 1, Glass: 1.
+-----------------------------------------
+
+----- Goods For Sale: 1 -----
+Brandy Strange is selling metal for $6.
+-----------------------------------------
+Brandy Strange is 24 days old and has $16. Brandy Strange has Wood: 0, Metal: 1, Glass: 1.
+-----------------------------------------
+
+----- Goods For Sale: 0 -----
+-----------------------------------------
+Brandy Strange is 25 days old and has $16. Brandy Strange has Wood: 2, Metal: 0, Glass: 1.
+-----------------------------------------
+
+----- Goods For Sale: 0 -----
+-----------------------------------------
+Brandy Strange is 26 days old and has $16. Brandy Strange has Wood: 2, Metal: 0, Glass: 2.
+-----------------------------------------
+
+----- Goods For Sale: 1 -----
+Brandy Strange is selling wood for $5.
+-----------------------------------------
+Brandy Strange is 27 days old and has $16. Brandy Strange has Wood: 1, Metal: 0, Glass: 2.
+-----------------------------------------
+
+----- Goods For Sale: 1 -----
+Brandy Strange is selling wood for $7.
+-----------------------------------------
+Brandy Strange is 28 days old and has $16. Brandy Strange has Wood: 1, Metal: 0, Glass: 2.
+-----------------------------------------
+
+----- Goods For Sale: 1 -----
+Brandy Strange is selling wood for $3.
+-----------------------------------------
+Brandy Strange is 29 days old and has $16. Brandy Strange has Wood: 1, Metal: 0, Glass: 2.
+-----------------------------------------
+
+----- Goods For Sale: 1 -----
+Brandy Strange is selling wood for $3.
+-----------------------------------------
+Brandy Strange is 30 days old and has $16. Brandy Strange has Wood: 1, Metal: 0, Glass: 3.
+-----------------------------------------
+
+----- Goods For Sale: 1 -----
+Brandy Strange is selling wood for $4.
+-----------------------------------------
+Brandy Strange is 31 days old and has $16. Brandy Strange has Wood: 2, Metal: 1, Glass: 2.
+-----------------------------------------
+
+----- Goods For Sale: 1 -----
+Brandy Strange is selling wood for $8.
+-----------------------------------------
+Brandy Strange is 32 days old and has $16. Brandy Strange has Wood: 1, Metal: 1, Glass: 3.
+-----------------------------------------
+
+----- Goods For Sale: 0 -----
+-----------------------------------------
+Brandy Strange is 33 days old and has $16. Brandy Strange has Wood: 1, Metal: 1, Glass: 2.
+-----------------------------------------
+
+----- Goods For Sale: 0 -----
+-----------------------------------------
+Brandy Strange is 34 days old and has $16. Brandy Strange has Wood: 1, Metal: 1, Glass: 1.
+-----------------------------------------
+
+----- Goods For Sale: 0 -----
+-----------------------------------------
+Brandy Strange is 35 days old and has $16. Brandy Strange has Wood: 1, Metal: 1, Glass: 2.
+-----------------------------------------
+
+----- Goods For Sale: 1 -----
+Brandy Strange is selling glass for $6.
+-----------------------------------------
+Brandy Strange is 36 days old and has $16. Brandy Strange has Wood: 1, Metal: 3, Glass: 1.
+-----------------------------------------
+
+----- Goods For Sale: 0 -----
+-----------------------------------------
+Brandy Strange is 37 days old and has $16. Brandy Strange has Wood: 2, Metal: 2, Glass: 1.
+-----------------------------------------
+
+----- Goods For Sale: 0 -----
+-----------------------------------------
+Brandy Strange is 38 days old and has $16. Brandy Strange has Wood: 1, Metal: 2, Glass: 1.
+-----------------------------------------
+
+----- Goods For Sale: 0 -----
+-----------------------------------------
+Brandy Strange is 39 days old and has $16. Brandy Strange has Wood: 1, Metal: 2, Glass: 1.
+-----------------------------------------
+
+----- Goods For Sale: 0 -----
+-----------------------------------------
+Brandy Strange is 40 days old and has $16. Brandy Strange has Wood: 1, Metal: 1, Glass: 1.
+-----------------------------------------
+
+----- Goods For Sale: 0 -----
+-----------------------------------------
+Brandy Strange is 41 days old and has $16. Brandy Strange has Wood: 0, Metal: 1, Glass: 1.
+-----------------------------------------
+
+----- Goods For Sale: 1 -----
+Brandy Strange is selling glass for $10.
+-----------------------------------------
+Brandy Strange is 42 days old and has $16. Brandy Strange has Wood: 0, Metal: 0, Glass: 2.
+-----------------------------------------
+
+----- Goods For Sale: 1 -----
+Brandy Strange is selling glass for $10.
+-----------------------------------------
+Brandy Strange is 43 days old and has $16. Brandy Strange has Wood: 0, Metal: 0, Glass: 1.
+-----------------------------------------
+
+----- Goods For Sale: 0 -----
+-----------------------------------------
+Brandy Strange is 44 days old and has $16. Brandy Strange has Wood: 0, Metal: 0, Glass: 0.
+-----------------------------------------
+
+----- Goods For Sale: 0 -----
+-----------------------------------------
+
+----- Goods For Sale: 0 -----
+-----------------------------------------
+
+----- Goods For Sale: 0 -----
+-----------------------------------------
+
+----- Goods For Sale: 0 -----
+-----------------------------------------
+
+----- Goods For Sale: 0 -----
+-----------------------------------------
+
+----- Goods For Sale: 0 -----

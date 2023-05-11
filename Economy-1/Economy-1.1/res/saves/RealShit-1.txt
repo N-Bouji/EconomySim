@@ -1,0 +1,206 @@
+
+-----------------------------------------
+Dawson Trump is 0 days old and has $24. Dawson Trump has Wood: 0, Metal: 0, Glass: 0.
+-----------------------------------------
+Ayden Potter is 0 days old and has $34. Ayden Potter has Wood: 2, Metal: 1, Glass: 0.
+-----------------------------------------
+Johnny Dotson is 0 days old and has $28. Johnny Dotson has Wood: 2, Metal: 1, Glass: 1.
+-----------------------------------------
+Addison Bowman is 0 days old and has $22. Addison Bowman has Wood: 1, Metal: 1, Glass: 0.
+-----------------------------------------
+Johnny Washington is 0 days old and has $26. Johnny Washington has Wood: 1, Metal: 2, Glass: 2.
+-----------------------------------------
+Hunter Stone is 0 days old and has $24. Hunter Stone has Wood: 1, Metal: 1, Glass: 1.
+-----------------------------------------
+Jarrett Segars is 0 days old and has $29. Jarrett Segars has Wood: 1, Metal: 0, Glass: 2.
+-----------------------------------------
+Matthew Segars is 0 days old and has $25. Matthew Segars has Wood: 2, Metal: 0, Glass: 0.
+-----------------------------------------
+Noah Moffit is 0 days old and has $25. Noah Moffit has Wood: 0, Metal: 0, Glass: 1.
+-----------------------------------------
+Kathy Adams is 0 days old and has $25. Kathy Adams has Wood: 1, Metal: 2, Glass: 0.
+-----------------------------------------
+Brandy Washington is 0 days old and has $27. Brandy Washington has Wood: 1, Metal: 0, Glass: 1.
+-----------------------------------------
+Ayden Potter is 0 days old and has $26. Ayden Potter has Wood: 0, Metal: 1, Glass: 2.
+-----------------------------------------
+Harly Segars is 0 days old and has $26. Harly Segars has Wood: 0, Metal: 2, Glass: 0.
+-----------------------------------------
+Barbara Hill is 0 days old and has $25. Barbara Hill has Wood: 0, Metal: 1, Glass: 0.
+-----------------------------------------
+Jackson Jenson is 0 days old and has $26. Jackson Jenson has Wood: 1, Metal: 3, Glass: 2.
+-----------------------------------------
+Harly Jenson is 0 days old and has $23. Harly Jenson has Wood: 1, Metal: 1, Glass: 3.
+-----------------------------------------
+Daisy White is 0 days old and has $19. Daisy White has Wood: 1, Metal: 3, Glass: 0.
+-----------------------------------------
+Joseph Trump is 0 days old and has $24. Joseph Trump has Wood: 0, Metal: 3, Glass: 2.
+-----------------------------------------
+Jarrett Clarke is 0 days old and has $26. Jarrett Clarke has Wood: 0, Metal: 3, Glass: 0.
+-----------------------------------------
+Jeremiah Washington is 0 days old and has $16. Jeremiah Washington has Wood: 0, Metal: 2, Glass: 1.
+-----------------------------------------
+
+----- Goods For Sale: 5 -----
+Hunter Stone is selling metal for $9.
+Jackson Jenson is selling metal for $10.
+Daisy White is selling metal for $8.
+Joseph Trump is selling metal for $10.
+Jeremiah Washington is selling metal for $8.
+-----------------------------------------
+Ayden Potter is 1 days old and has $39. Ayden Potter has Wood: 0, Metal: 1, Glass: 1.
+-----------------------------------------
+Johnny Dotson is 1 days old and has $24. Johnny Dotson has Wood: 1, Metal: 1, Glass: 1.
+-----------------------------------------
+Addison Bowman is 1 days old and has $23. Addison Bowman has Wood: 1, Metal: 0, Glass: 0.
+-----------------------------------------
+Johnny Washington is 1 days old and has $26. Johnny Washington has Wood: 1, Metal: 1, Glass: 2.
+-----------------------------------------
+Hunter Stone is 1 days old and has $18. Hunter Stone has Wood: 1, Metal: 1, Glass: 1.
+-----------------------------------------
+Jarrett Segars is 1 days old and has $28. Jarrett Segars has Wood: 1, Metal: 0, Glass: 1.
+-----------------------------------------
+Matthew Segars is 1 days old and has $23. Matthew Segars has Wood: 1, Metal: 0, Glass: 0.
+-----------------------------------------
+Noah Moffit is 1 days old and has $18. Noah Moffit has Wood: 1, Metal: 0, Glass: 0.
+-----------------------------------------
+Kathy Adams is 1 days old and has $34. Kathy Adams has Wood: 0, Metal: 1, Glass: 0.
+-----------------------------------------
+Brandy Washington is 1 days old and has $33. Brandy Washington has Wood: 0, Metal: 0, Glass: 0.
+-----------------------------------------
+Ayden Potter is 1 days old and has $26. Ayden Potter has Wood: 0, Metal: 1, Glass: 1.
+-----------------------------------------
+Harly Segars is 1 days old and has $26. Harly Segars has Wood: 0, Metal: 1, Glass: 0.
+-----------------------------------------
+Barbara Hill is 1 days old and has $25. Barbara Hill has Wood: 0, Metal: 0, Glass: 0.
+-----------------------------------------
+Jackson Jenson is 1 days old and has $18. Jackson Jenson has Wood: 1, Metal: 3, Glass: 2.
+-----------------------------------------
+Harly Jenson is 1 days old and has $30. Harly Jenson has Wood: 0, Metal: 1, Glass: 2.
+-----------------------------------------
+Daisy White is 1 days old and has $19. Daisy White has Wood: 1, Metal: 2, Glass: 0.
+-----------------------------------------
+Joseph Trump is 1 days old and has $24. Joseph Trump has Wood: 0, Metal: 2, Glass: 2.
+-----------------------------------------
+Jarrett Clarke is 1 days old and has $26. Jarrett Clarke has Wood: 0, Metal: 2, Glass: 0.
+-----------------------------------------
+Jeremiah Washington is 1 days old and has $16. Jeremiah Washington has Wood: 0, Metal: 1, Glass: 1.
+-----------------------------------------
+
+----- Goods For Sale: 6 -----
+Ayden Potter is selling glass for $4.
+Jackson Jenson is selling metal for $5.
+Harly Jenson is selling glass for $5.
+Joseph Trump is selling glass for $7.
+Jarrett Clarke is selling metal for $9.
+Jeremiah Washington is selling glass for $5.
+-----------------------------------------
+Ayden Potter is 2 days old and has $33. Ayden Potter has Wood: 1, Metal: 0, Glass: 1.
+-----------------------------------------
+Johnny Dotson is 2 days old and has $24. Johnny Dotson has Wood: 0, Metal: 1, Glass: 1.
+-----------------------------------------
+Addison Bowman is 2 days old and has $23. Addison Bowman has Wood: 0, Metal: 0, Glass: 0.
+-----------------------------------------
+Johnny Washington is 2 days old and has $26. Johnny Washington has Wood: 1, Metal: 1, Glass: 1.
+-----------------------------------------
+Hunter Stone is 2 days old and has $22. Hunter Stone has Wood: 0, Metal: 0, Glass: 1.
+-----------------------------------------
+Jarrett Segars is 2 days old and has $28. Jarrett Segars has Wood: 0, Metal: 0, Glass: 1.
+-----------------------------------------
+Matthew Segars is 2 days old and has $23. Matthew Segars has Wood: 0, Metal: 0, Glass: 0.
+-----------------------------------------
+Noah Moffit is 2 days old and has $18. Noah Moffit has Wood: 0, Metal: 0, Glass: 0.
+-----------------------------------------
+Kathy Adams is 2 days old and has $34. Kathy Adams has Wood: 0, Metal: 0, Glass: 0.
+-----------------------------------------
+Ayden Potter is 2 days old and has $26. Ayden Potter has Wood: 0, Metal: 0, Glass: 1.
+-----------------------------------------
+Harly Segars is 2 days old and has $26. Harly Segars has Wood: 0, Metal: 0, Glass: 0.
+-----------------------------------------
+Jackson Jenson is 2 days old and has $14. Jackson Jenson has Wood: 1, Metal: 3, Glass: 2.
+-----------------------------------------
+Harly Jenson is 2 days old and has $30. Harly Jenson has Wood: 0, Metal: 1, Glass: 1.
+-----------------------------------------
+Daisy White is 2 days old and has $25. Daisy White has Wood: 0, Metal: 1, Glass: 0.
+-----------------------------------------
+Joseph Trump is 2 days old and has $24. Joseph Trump has Wood: 0, Metal: 1, Glass: 2.
+-----------------------------------------
+Jarrett Clarke is 2 days old and has $26. Jarrett Clarke has Wood: 0, Metal: 1, Glass: 0.
+-----------------------------------------
+Jeremiah Washington is 2 days old and has $16. Jeremiah Washington has Wood: 0, Metal: 0, Glass: 1.
+-----------------------------------------
+
+----- Goods For Sale: 3 -----
+Ayden Potter is selling glass for $2.
+Johnny Dotson is selling glass for $4.
+Joseph Trump is selling metal for $7.
+-----------------------------------------
+Ayden Potter is 3 days old and has $33. Ayden Potter has Wood: 0, Metal: 0, Glass: 1.
+-----------------------------------------
+Johnny Dotson is 3 days old and has $24. Johnny Dotson has Wood: 0, Metal: 0, Glass: 1.
+-----------------------------------------
+Johnny Washington is 3 days old and has $26. Johnny Washington has Wood: 0, Metal: 1, Glass: 1.
+-----------------------------------------
+Hunter Stone is 3 days old and has $22. Hunter Stone has Wood: 0, Metal: 0, Glass: 0.
+-----------------------------------------
+Jarrett Segars is 3 days old and has $28. Jarrett Segars has Wood: 0, Metal: 0, Glass: 0.
+-----------------------------------------
+Ayden Potter is 3 days old and has $26. Ayden Potter has Wood: 0, Metal: 0, Glass: 0.
+-----------------------------------------
+Jackson Jenson is 3 days old and has $14. Jackson Jenson has Wood: 1, Metal: 2, Glass: 2.
+-----------------------------------------
+Harly Jenson is 3 days old and has $30. Harly Jenson has Wood: 0, Metal: 0, Glass: 1.
+-----------------------------------------
+Daisy White is 3 days old and has $25. Daisy White has Wood: 0, Metal: 0, Glass: 0.
+-----------------------------------------
+Joseph Trump is 3 days old and has $24. Joseph Trump has Wood: 0, Metal: 1, Glass: 1.
+-----------------------------------------
+Jarrett Clarke is 3 days old and has $26. Jarrett Clarke has Wood: 0, Metal: 0, Glass: 0.
+-----------------------------------------
+Jeremiah Washington is 3 days old and has $16. Jeremiah Washington has Wood: 0, Metal: 0, Glass: 0.
+-----------------------------------------
+
+----- Goods For Sale: 0 -----
+-----------------------------------------
+Ayden Potter is 4 days old and has $33. Ayden Potter has Wood: 0, Metal: 0, Glass: 0.
+-----------------------------------------
+Johnny Dotson is 4 days old and has $24. Johnny Dotson has Wood: 0, Metal: 0, Glass: 0.
+-----------------------------------------
+Johnny Washington is 4 days old and has $26. Johnny Washington has Wood: 0, Metal: 0, Glass: 1.
+-----------------------------------------
+Jackson Jenson is 4 days old and has $14. Jackson Jenson has Wood: 1, Metal: 1, Glass: 2.
+-----------------------------------------
+Harly Jenson is 4 days old and has $30. Harly Jenson has Wood: 0, Metal: 0, Glass: 0.
+-----------------------------------------
+Joseph Trump is 4 days old and has $24. Joseph Trump has Wood: 0, Metal: 0, Glass: 1.
+-----------------------------------------
+
+----- Goods For Sale: 0 -----
+-----------------------------------------
+Johnny Washington is 5 days old and has $26. Johnny Washington has Wood: 0, Metal: 0, Glass: 0.
+-----------------------------------------
+Jackson Jenson is 5 days old and has $14. Jackson Jenson has Wood: 1, Metal: 1, Glass: 1.
+-----------------------------------------
+Joseph Trump is 5 days old and has $24. Joseph Trump has Wood: 0, Metal: 0, Glass: 0.
+-----------------------------------------
+
+----- Goods For Sale: 1 -----
+Jackson Jenson is selling metal for $5.
+-----------------------------------------
+Jackson Jenson is 6 days old and has $14. Jackson Jenson has Wood: 0, Metal: 1, Glass: 1.
+-----------------------------------------
+
+----- Goods For Sale: 0 -----
+-----------------------------------------
+Jackson Jenson is 7 days old and has $14. Jackson Jenson has Wood: 0, Metal: 0, Glass: 1.
+-----------------------------------------
+
+----- Goods For Sale: 0 -----
+-----------------------------------------
+Jackson Jenson is 8 days old and has $14. Jackson Jenson has Wood: 0, Metal: 0, Glass: 0.
+-----------------------------------------
+
+----- Goods For Sale: 0 -----
+-----------------------------------------
+
+----- Goods For Sale: 0 -----

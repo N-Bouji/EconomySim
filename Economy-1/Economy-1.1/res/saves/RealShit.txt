@@ -1,0 +1,203 @@
+
+-----------------------------------------
+Noah Strange is 0 days old and has $22. Noah Strange has Wood: 3, Metal: 0, Glass: 0.
+-----------------------------------------
+Matthew Washington is 0 days old and has $23. Matthew Washington has Wood: 0, Metal: 1, Glass: 0.
+-----------------------------------------
+Kelly King is 0 days old and has $27. Kelly King has Wood: 2, Metal: 1, Glass: 0.
+-----------------------------------------
+Rylan Nixion is 0 days old and has $22. Rylan Nixion has Wood: 2, Metal: 0, Glass: 2.
+-----------------------------------------
+Jackson Hill is 0 days old and has $27. Jackson Hill has Wood: 1, Metal: 1, Glass: 0.
+-----------------------------------------
+Johnny White is 0 days old and has $28. Johnny White has Wood: 0, Metal: 2, Glass: 1.
+-----------------------------------------
+Jake Bush is 0 days old and has $27. Jake Bush has Wood: 1, Metal: 1, Glass: 1.
+-----------------------------------------
+Sam Nixion is 0 days old and has $20. Sam Nixion has Wood: 0, Metal: 0, Glass: 1.
+-----------------------------------------
+Josh Hill is 0 days old and has $19. Josh Hill has Wood: 0, Metal: 1, Glass: 0.
+-----------------------------------------
+Taylor Smith is 0 days old and has $25. Taylor Smith has Wood: 3, Metal: 2, Glass: 1.
+-----------------------------------------
+Rylan Moffit is 0 days old and has $19. Rylan Moffit has Wood: 1, Metal: 2, Glass: 0.
+-----------------------------------------
+Danielle Musk is 0 days old and has $24. Danielle Musk has Wood: 0, Metal: 3, Glass: 2.
+-----------------------------------------
+Kelly Jenson is 0 days old and has $30. Kelly Jenson has Wood: 0, Metal: 1, Glass: 0.
+-----------------------------------------
+Kathy Dotson is 0 days old and has $19. Kathy Dotson has Wood: 1, Metal: 0, Glass: 0.
+-----------------------------------------
+Dylan Hill is 0 days old and has $38. Dylan Hill has Wood: 4, Metal: 1, Glass: 1.
+-----------------------------------------
+Taylor Nixion is 0 days old and has $26. Taylor Nixion has Wood: 0, Metal: 1, Glass: 1.
+-----------------------------------------
+Noah Strange is 0 days old and has $29. Noah Strange has Wood: 1, Metal: 0, Glass: 2.
+-----------------------------------------
+Jeremiah Hill is 0 days old and has $27. Jeremiah Hill has Wood: 1, Metal: 2, Glass: 0.
+-----------------------------------------
+Kathy Trump is 0 days old and has $24. Kathy Trump has Wood: 2, Metal: 1, Glass: 1.
+-----------------------------------------
+Connie Hill is 0 days old and has $24. Connie Hill has Wood: 2, Metal: 1, Glass: 2.
+-----------------------------------------
+
+----- Goods For Sale: 1 -----
+Rylan Moffit is selling metal for $10.
+-----------------------------------------
+Noah Strange is 1 days old and has $22. Noah Strange has Wood: 1, Metal: 1, Glass: 0.
+-----------------------------------------
+Matthew Washington is 1 days old and has $16. Matthew Washington has Wood: 1, Metal: 0, Glass: 0.
+-----------------------------------------
+Kelly King is 1 days old and has $29. Kelly King has Wood: 0, Metal: 1, Glass: 1.
+-----------------------------------------
+Rylan Nixion is 1 days old and has $21. Rylan Nixion has Wood: 0, Metal: 1, Glass: 2.
+-----------------------------------------
+Jackson Hill is 1 days old and has $25. Jackson Hill has Wood: 1, Metal: 0, Glass: 0.
+-----------------------------------------
+Johnny White is 1 days old and has $29. Johnny White has Wood: 1, Metal: 0, Glass: 1.
+-----------------------------------------
+Jake Bush is 1 days old and has $23. Jake Bush has Wood: 1, Metal: 0, Glass: 1.
+-----------------------------------------
+Sam Nixion is 1 days old and has $10. Sam Nixion has Wood: 1, Metal: 0, Glass: 0.
+-----------------------------------------
+Josh Hill is 1 days old and has $9. Josh Hill has Wood: 1, Metal: 0, Glass: 0.
+-----------------------------------------
+Taylor Smith is 1 days old and has $29. Taylor Smith has Wood: 1, Metal: 3, Glass: 1.
+-----------------------------------------
+Rylan Moffit is 1 days old and has $19. Rylan Moffit has Wood: 1, Metal: 1, Glass: 0.
+-----------------------------------------
+Danielle Musk is 1 days old and has $22. Danielle Musk has Wood: 1, Metal: 1, Glass: 2.
+-----------------------------------------
+Kelly Jenson is 1 days old and has $22. Kelly Jenson has Wood: 1, Metal: 0, Glass: 0.
+-----------------------------------------
+Kathy Dotson is 1 days old and has $19. Kathy Dotson has Wood: 0, Metal: 0, Glass: 0.
+-----------------------------------------
+Dylan Hill is 1 days old and has $48. Dylan Hill has Wood: 2, Metal: 1, Glass: 1.
+-----------------------------------------
+Taylor Nixion is 1 days old and has $26. Taylor Nixion has Wood: 0, Metal: 0, Glass: 1.
+-----------------------------------------
+Noah Strange is 1 days old and has $27. Noah Strange has Wood: 1, Metal: 1, Glass: 0.
+-----------------------------------------
+Jeremiah Hill is 1 days old and has $37. Jeremiah Hill has Wood: 0, Metal: 1, Glass: 0.
+-----------------------------------------
+Kathy Trump is 1 days old and has $35. Kathy Trump has Wood: 0, Metal: 1, Glass: 1.
+-----------------------------------------
+Connie Hill is 1 days old and has $32. Connie Hill has Wood: 0, Metal: 1, Glass: 2.
+-----------------------------------------
+
+----- Goods For Sale: 7 -----
+Kelly King is selling glass for $6.
+Rylan Nixion is selling metal for $9.
+Jake Bush is selling glass for $6.
+Taylor Smith is selling metal for $8.
+Rylan Moffit is selling metal for $6.
+Kathy Trump is selling glass for $4.
+Connie Hill is selling metal for $4.
+-----------------------------------------
+Noah Strange is 2 days old and has $23. Noah Strange has Wood: 1, Metal: 0, Glass: 0.
+-----------------------------------------
+Matthew Washington is 2 days old and has $11. Matthew Washington has Wood: 1, Metal: 0, Glass: 0.
+-----------------------------------------
+Kelly King is 2 days old and has $29. Kelly King has Wood: 0, Metal: 0, Glass: 1.
+-----------------------------------------
+Rylan Nixion is 2 days old and has $21. Rylan Nixion has Wood: 0, Metal: 1, Glass: 1.
+-----------------------------------------
+Jackson Hill is 2 days old and has $25. Jackson Hill has Wood: 0, Metal: 0, Glass: 0.
+-----------------------------------------
+Johnny White is 2 days old and has $29. Johnny White has Wood: 0, Metal: 0, Glass: 1.
+-----------------------------------------
+Jake Bush is 2 days old and has $23. Jake Bush has Wood: 0, Metal: 0, Glass: 1.
+-----------------------------------------
+Sam Nixion is 2 days old and has $10. Sam Nixion has Wood: 0, Metal: 0, Glass: 0.
+-----------------------------------------
+Josh Hill is 2 days old and has $9. Josh Hill has Wood: 0, Metal: 0, Glass: 0.
+-----------------------------------------
+Taylor Smith is 2 days old and has $20. Taylor Smith has Wood: 1, Metal: 3, Glass: 1.
+-----------------------------------------
+Rylan Moffit is 2 days old and has $19. Rylan Moffit has Wood: 0, Metal: 1, Glass: 0.
+-----------------------------------------
+Danielle Musk is 2 days old and has $30. Danielle Musk has Wood: 0, Metal: 1, Glass: 1.
+-----------------------------------------
+Kelly Jenson is 2 days old and has $22. Kelly Jenson has Wood: 0, Metal: 0, Glass: 0.
+-----------------------------------------
+Dylan Hill is 2 days old and has $53. Dylan Hill has Wood: 0, Metal: 1, Glass: 1.
+-----------------------------------------
+Taylor Nixion is 2 days old and has $26. Taylor Nixion has Wood: 0, Metal: 0, Glass: 0.
+-----------------------------------------
+Noah Strange is 2 days old and has $27. Noah Strange has Wood: 0, Metal: 1, Glass: 0.
+-----------------------------------------
+Jeremiah Hill is 2 days old and has $37. Jeremiah Hill has Wood: 0, Metal: 0, Glass: 0.
+-----------------------------------------
+Kathy Trump is 2 days old and has $35. Kathy Trump has Wood: 0, Metal: 0, Glass: 1.
+-----------------------------------------
+Connie Hill is 2 days old and has $32. Connie Hill has Wood: 0, Metal: 1, Glass: 1.
+-----------------------------------------
+
+----- Goods For Sale: 3 -----
+Rylan Nixion is selling glass for $6.
+Dylan Hill is selling glass for $3.
+Connie Hill is selling glass for $4.
+-----------------------------------------
+Noah Strange is 3 days old and has $15. Noah Strange has Wood: 1, Metal: 0, Glass: 0.
+-----------------------------------------
+Matthew Washington is 3 days old and has $11. Matthew Washington has Wood: 0, Metal: 0, Glass: 0.
+-----------------------------------------
+Kelly King is 3 days old and has $29. Kelly King has Wood: 0, Metal: 0, Glass: 0.
+-----------------------------------------
+Rylan Nixion is 3 days old and has $21. Rylan Nixion has Wood: 0, Metal: 0, Glass: 1.
+-----------------------------------------
+Johnny White is 3 days old and has $29. Johnny White has Wood: 0, Metal: 0, Glass: 0.
+-----------------------------------------
+Jake Bush is 3 days old and has $23. Jake Bush has Wood: 0, Metal: 0, Glass: 0.
+-----------------------------------------
+Taylor Smith is 3 days old and has $28. Taylor Smith has Wood: 0, Metal: 2, Glass: 1.
+-----------------------------------------
+Rylan Moffit is 3 days old and has $19. Rylan Moffit has Wood: 0, Metal: 0, Glass: 0.
+-----------------------------------------
+Danielle Musk is 3 days old and has $30. Danielle Musk has Wood: 0, Metal: 0, Glass: 1.
+-----------------------------------------
+Dylan Hill is 3 days old and has $53. Dylan Hill has Wood: 0, Metal: 0, Glass: 1.
+-----------------------------------------
+Noah Strange is 3 days old and has $27. Noah Strange has Wood: 0, Metal: 0, Glass: 0.
+-----------------------------------------
+Kathy Trump is 3 days old and has $35. Kathy Trump has Wood: 0, Metal: 0, Glass: 0.
+-----------------------------------------
+Connie Hill is 3 days old and has $32. Connie Hill has Wood: 0, Metal: 0, Glass: 1.
+-----------------------------------------
+
+----- Goods For Sale: 1 -----
+Taylor Smith is selling metal for $5.
+-----------------------------------------
+Noah Strange is 4 days old and has $15. Noah Strange has Wood: 0, Metal: 0, Glass: 0.
+-----------------------------------------
+Rylan Nixion is 4 days old and has $21. Rylan Nixion has Wood: 0, Metal: 0, Glass: 0.
+-----------------------------------------
+Taylor Smith is 4 days old and has $28. Taylor Smith has Wood: 0, Metal: 1, Glass: 1.
+-----------------------------------------
+Danielle Musk is 4 days old and has $30. Danielle Musk has Wood: 0, Metal: 0, Glass: 0.
+-----------------------------------------
+Dylan Hill is 4 days old and has $53. Dylan Hill has Wood: 0, Metal: 0, Glass: 0.
+-----------------------------------------
+Connie Hill is 4 days old and has $32. Connie Hill has Wood: 0, Metal: 0, Glass: 0.
+-----------------------------------------
+
+----- Goods For Sale: 0 -----
+-----------------------------------------
+Taylor Smith is 5 days old and has $28. Taylor Smith has Wood: 0, Metal: 0, Glass: 1.
+-----------------------------------------
+
+----- Goods For Sale: 0 -----
+-----------------------------------------
+Taylor Smith is 6 days old and has $28. Taylor Smith has Wood: 0, Metal: 0, Glass: 0.
+-----------------------------------------
+
+----- Goods For Sale: 0 -----
+-----------------------------------------
+
+----- Goods For Sale: 0 -----
+-----------------------------------------
+
+----- Goods For Sale: 0 -----
+-----------------------------------------
+
+----- Goods For Sale: 0 -----
