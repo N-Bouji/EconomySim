@@ -1,0 +1,35 @@
+Game Plan:
+
+    High Level:
+    - A. Have autonomous gens (game name for people {french for folks})
+    - B. Have complex companies, ran by gens, that can specialize in a variety of industries
+    - C. Have raw products that must be extracted or farmed. For now, every raw product will only be used by factories to make secondary products.
+    - D. Factories use raw products to make secondart products.
+    - E. Secondary products are used by compaies to enable or aid production, extraction, farming, or transport.
+    - F. Game  Events are what drives the Gen's and company's actions. Each entity has a set number of actions each day which can be used in response to an event, or used to create an event.
+
+
+    Detailed:
+
+    A - Gens
+        Variables:
+        > String name, int age, Traits traits, Inventory items
+
+        Req. Classes:
+        > Traits - Stores and modifies the traits & stats of the gen 
+            - 2D array struct
+            - 
+        > Inventory - Stores the items & money the gen has
+            - 2D Array
+        > Brain - Stores memories that affect decisions, makes decisions based of internal & external factories
+            - Brain needs to decide which action is the best for any given situation.
+
+    B - Companies
+
+    C - Raw Products
+
+    D - Factories
+
+    E - Secondary Products
+
+    F - Game Events
